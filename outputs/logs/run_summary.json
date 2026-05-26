@@ -1,0 +1,11 @@
+{
+  "dataset": "imdb",
+  "seed": 42,
+  "model_name": "distilbert-base-uncased",
+  "fine_tuning_mode": "full_finetune",
+  "test_macro_f1": 0.9127494426825646,
+  "test_accuracy": 0.91276,
+  "best_val_macro_f1": 0.9107967886843926,
+  "wandb_enabled": true,
+  "wandb_mode": "online"
+}
